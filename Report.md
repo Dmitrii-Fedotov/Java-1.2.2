@@ -7,7 +7,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-[Багрепорт 1]()
+[Багрепорт 1](https://github.com/Dmitrii-Fedotov/Java-1.2.2/issues/1)
 
 В качестве тестовых данных использовались данные [Задание 1.2 Задача №2](https://github.com/netology-code/javaqa-homeworks/tree/master/programming) :
 
